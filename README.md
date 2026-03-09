@@ -40,8 +40,8 @@ Before cloning or using the code ensure you have:
 
 ## Clone this repo
 ```bash
-git clone <your-repository-url>
-cd Titanic_Model
+git clone https://github.com/HSQ888/titanic-survival-predictor.git
+cd titanic-survival-predictor
 ```
 ## Install dependencies
 ```bash
